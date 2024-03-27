@@ -1,0 +1,24 @@
+{
+  "appName": "VelvetAI",
+  "version": "0.1.0",
+  "environment": "development",
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "app_user",
+    "password": "supersecurepassword",
+    "name": "app_database"
+  },
+  "tests": {
+    "unitTests": true,
+    "integrationTests": true,
+    "testEnvironment": "docker",
+    "testDatabase": {
+      "host": "localhost",
+      "port": 3306,
+      "user": "test_user",
+      "password": "testpassword",
+      "name": "test_database"
+    }
+  }
+}
