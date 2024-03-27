@@ -24,5 +24,5 @@ Contributions to Velvetai are welcome! Please feel free to submit bug reports, f
 
 ## License
 
-This project is licensed under the MIT License and the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
